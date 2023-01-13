@@ -39,6 +39,9 @@ const listaObjetos = [
   { nombre: "Amaia", edad: 29 },
 ];
 
+
+
+
 // const objeto = listaObjetos.find(o =>{
 //     if(o.nombre === 'Miguel') {
 //         return true
